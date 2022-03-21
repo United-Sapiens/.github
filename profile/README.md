@@ -1,4 +1,4 @@
-![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/profile-banner.jpg)
+![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/profile-banner_1500x400)
 
 
 # United Sapiens
