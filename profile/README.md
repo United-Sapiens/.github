@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/unsap-icon.png" height="21px">  The United Sapiens Initiative
 
-<p align="justify">The world has become quite chaotic and complicated in the last few decades, a total “bad vibe asshole”. After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In our view, we have forgotten the most important thing throughout history: we are all Homo Sapiens, a single species and a single people.</p>
+<p align="justify">The world has become quite chaotic and complicated in the last few decades, a total “bad vibe". After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In our view, we have forgotten the most important thing throughout history: we are all Homo Sapiens, a single species and a single people.</p>
 
 <p align="justify">The main idea behind the United Sapiens initiative is to make citizens and governments aware that we need to evolve our way of thinking and acting. And the first step is to “stamp in our minds” that we are all Sapiens, without divisions of caste, gender, race, religion, fortune, ideology, etc. This also includes any other type of prejudice or any other form of discrimination. In addition, there are other important guidelines that deserve attention.</p>
 <p> &nbsp; </p>
