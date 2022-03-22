@@ -40,7 +40,7 @@ FOR WE ARE LEGION
 ONE FOR ALL AND ALL FOR ONE
 ```
 
-<p align="justify">I've already created the [United Sapiens landing page](https://www.united-sapiens.org). There you can check out the “United Sapiens Clamor” translated into many languages of many countries. I also make it clear that anyone can participate in the initiative, just send me an e-mail: &nbsp; :envelope: [united.sapiens.br@gmail.com](mailto:united.sapiens.br@gmail.com).</p>
+<p align="justify">I've already created the <a href="https://www.united-sapiens.org">United Sapiens landing page</a>. There you can check out the “United Sapiens Clamor” translated into many languages of many countries. I also make it clear that anyone can participate in the initiative, just send me an e-mail: &nbsp; :envelope: <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
 <p> &nbsp; </p>
 
 > "Do... or do not. There is no try." &nbsp; — &nbsp; Yoda

@@ -39,7 +39,7 @@ POIS NÓS SOMOS LEGIÃO
 UM POR TODOS E TODOS POR UM
 ```
 
-<p align="justify">Já elaborei a [landing page da United Sapiens](https://www.united-sapiens.org). Lá é possível conferir o “United Sapiens Clamor” traduzido para muitas línguas de muitos países. Também deixo claro que qualquer um poderá participar da iniciativa, bastando me enviar um e-mail: &nbsp; :envelope: [united.sapiens.br@gmail.com](mailto:united.sapiens.br@gmail.com).</p>
+<p align="justify">Já elaborei a <a href="https://www.united-sapiens.org">landing page da United Sapiens</a>. Lá é possível conferir o “United Sapiens Clamor” traduzido para muitas línguas de muitos países. Também deixo claro que qualquer um poderá participar da iniciativa, bastando me enviar um e-mail: &nbsp; :envelope: <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
 <p> &nbsp; </p>
 
 > "Faça... ou não faça. Não existe a tentativa." &nbsp; — &nbsp; Yoda
