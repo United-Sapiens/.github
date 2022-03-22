@@ -25,6 +25,7 @@
 
 <p align="justify">Criamos o “United Sapiens Clamor”, um pequeno texto introdutório na forma de poema, um quase apelo popular, para deixar claro minha forma de pensar e a que veio a United Sapiens.</p>
 
+<p align="center">
 ```
 NÓS SOMOS SAPIENS
 UMA SÓ ESPÉCIE, UM SÓ POVO
@@ -36,6 +37,7 @@ POR CASTA, RAÇA OU RELIGIÃO
 POIS NÓS SOMOS LEGIÃO
 UM POR TODOS E TODOS POR UM
 ```
+</p>
 
 <p align="justify">Já elaborei a [landing page da United Sapiens](https://www.united-sapiens.org). Lá é possível conferir o “United Sapiens Clamor” traduzido para muitas línguas de muitos países. Também deixo claro que qualquer um poderá participar da iniciativa, bastando me enviar um e-mail: &nbsp; :envelope: [united.sapiens.br@gmail.com](mailto:united.sapiens.br@gmail.com).</p>
 
