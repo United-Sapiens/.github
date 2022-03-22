@@ -7,7 +7,7 @@ O mundo se tornou bastante caótico e complicado nas últimas décadas, uma tota
 
 A principal ideia por trás da iniciativa United Sapiens é conscientizar cidadãos e governantes de que precisamos evoluir nossa forma de pensar e agir. E o primeiro passo é “carimbar em nossas mentes” que somos todos Sapiens, sem divisões de casta, gênero, raça, religião, fortuna, ideologia, etc. Inclui se aqui também qualquer outro tipo de preconceito ou qualquer outra forma de discriminação. Além disso, há outras pautas importantes que merecem atenção.
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/goals-icon.png" height="22px"> Nossos Objetivos Globais
+## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/goals-icon.png" height="16px"> Nossos Objetivos Globais
 
 - Fim do poder de veto dos cinco membros permanentes (China, Estados Unidos, França, Reino Unido, Rússia) no Conselho de Segurança das Nações Unidas;
 - Encerramento de todas as alianças militares correntes (e.g. OTAN);

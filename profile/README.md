@@ -8,7 +8,7 @@ The world has become quite chaotic and complicated in the last few decades, a to
 
 The main idea behind the United Sapiens initiative is to make citizens and governments aware that we need to evolve our way of thinking and acting. And the first step is to “stamp in our minds” that we are all Sapiens, without divisions of caste, gender, race, religion, fortune, ideology, etc. This also includes any other type of prejudice or any other form of discrimination. In addition, there are other important guidelines that deserve attention.
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/goals-icon.png" height="21px">  Our Global Goals
+## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/goals-icon.png" height="18px">  Our Global Goals
 
 - End of the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the United Nations Security Council;
 - Termination of all current military alliances (e.g. NATO);
