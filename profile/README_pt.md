@@ -7,7 +7,7 @@
 
 <p align="justify">A principal ideia por trás da iniciativa United Sapiens é conscientizar cidadãos e governantes de que precisamos evoluir nossa forma de pensar e agir. E o primeiro passo é “carimbar em nossas mentes” que somos todos Sapiens, sem divisões de casta, gênero, raça, religião, fortuna, ideologia, etc. Inclui se aqui também qualquer outro tipo de preconceito ou qualquer outra forma de discriminação. Além disso, há outras pautas importantes que merecem atenção.</p>
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/goals-icon.png" height="18px"> Nossos Objetivos Globais
+## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/globe-icon.png" height="18px"> Nossos Objetivos Globais
 
 - Fim do poder de veto dos cinco membros permanentes (China, Estados Unidos, França, Reino Unido, Rússia) no Conselho de Segurança das Nações Unidas;
 - Encerramento de todas as alianças militares correntes (e.g. OTAN);
@@ -21,6 +21,10 @@
     <a href="https://www.reddit.com/r/United_Sapiens/"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
 </p>
 
-<p align="justify">Já elaborei a [landing page da United Sapiens](https://www.united-sapiens.org). Lá é possível conferir o “United Sapiens Clamor”, um pequeno texto introdutório na forma de poema, um quase apelo popular, para deixar claro minha forma de pensar e a que veio a United Sapiens. Também deixo claro que qualquer um poderá participar da iniciativa, bastando me enviar um e-mail: &nbsp; :envelope: [united.sapiens.br@gmail.com](mailto:united.sapiens.br@gmail.com).</p>
+## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/clamor-icon.png" height="18px">  United Sapiens Clamor
+
+<p align="justify">Criamos o “United Sapiens Clamor”, um pequeno texto introdutório na forma de poema, um quase apelo popular, para deixar claro minha forma de pensar e a que veio a United Sapiens.</p>
+
+<p align="justify">Já elaborei a [landing page da United Sapiens](https://www.united-sapiens.org). Lá é possível conferir o “United Sapiens Clamor” traduzido para muitas línguas de muitos países. Também deixo claro que qualquer um poderá participar da iniciativa, bastando me enviar um e-mail: &nbsp; :envelope: [united.sapiens.br@gmail.com](mailto:united.sapiens.br@gmail.com).</p>
 
 <h4 align="right">:vulcan_salute: &nbsp; Vida Longa e Próspera!</h4>
