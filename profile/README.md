@@ -8,11 +8,11 @@ The world has become quite chaotic and complicated in the last few decades, a to
 
 The main idea behind the United Sapiens initiative is to make citizens and governments aware that we need to evolve our way of thinking and acting. And the first step is to “stamp in our minds” that we are all Sapiens, without divisions of caste, gender, race, religion, fortune, ideology, etc. This also includes any other type of prejudice or any other form of discrimination. In addition, there are other important guidelines that deserve attention:
 
-•	End of the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the United Nations Security Council;
-•	Termination of all current military alliances (e.g. NATO);
-•	Maintenance of non-violent protests against dictatorial governments;
-•	Incorporation of the Universal Declaration of Human Rights into the current constitutions of all member countries of the United Nations.
+- End of the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the United Nations Security Council;
+- Termination of all current military alliances (e.g. NATO);
+- Maintenance of non-violent protests against dictatorial governments;
+- Incorporation of the Universal Declaration of Human Rights into the current constitutions of all member countries of the United Nations.
 
 As you can see, there is a lot to be done to make the world a better place. I'll try to contribute with what I know how to do, programming and making free / open source software available. You can also contribute if you are interested. Criticism and suggestions are very welcome.
 
-I've already created the [United Sapiens landing page](https://www.united-sapiens.org). There you can check out the “United Sapiens Clamor”, a short introductory text in the form of a poem, an almost popular appeal, to make clear my way of thinking and what United Sapiens came to. I also make it clear that anyone can participate in the initiative, just send me an email: :envelope: [united.sapiens.br@gmail.com](mailto:united.sapiens.br@gmail.com) :incoming_envelope:.
+I've already created the [United Sapiens landing page](https://www.united-sapiens.org). There you can check out the “United Sapiens Clamor”, a short introductory text in the form of a poem, an almost popular appeal, to make clear my way of thinking and what United Sapiens came to. I also make it clear that anyone can participate in the initiative, just send me an email: &nbsp; :envelope: [united.sapiens.br@gmail.com](mailto:united.sapiens.br@gmail.com).
