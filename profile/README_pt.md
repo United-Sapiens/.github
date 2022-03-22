@@ -13,7 +13,7 @@
 - Fim do poder de veto dos cinco membros permanentes (China, Estados Unidos, França, Reino Unido, Rússia) no Conselho de Segurança das Nações Unidas;
 - Encerramento de todas as alianças militares correntes (e.g. OTAN);
 - Manutenção de protestos não-violentos aos governos ditatoriais;
-- •	Incorporação da Declaração Universal dos Direitos Humanos nas constituições em vigor de todos os países membros das Nações Unidas.
+- Incorporação da Declaração Universal dos Direitos Humanos nas constituições em vigor de todos os países membros das Nações Unidas.
 
 <p align="justify">Como se pode ver, há muito o que fazer para tornar o mundo um lugar melhor. Qualquer um pode contribuir da maneira que puder. Contribua você também se tiver interesse. Junte-se à conversa no Twitter e Reddit. Críticas e sugestões serão muito bem-vindas.</p>
 
@@ -23,7 +23,7 @@
 </p>
 <p> &nbsp; </p>
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/clamor-icon.png" height="18px">  United Sapiens Clamor
+## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/clamor-icon.png" height="18px">  Clamor United Sapiens
 
 <p align="justify">Criamos o “United Sapiens Clamor”, um pequeno texto introdutório na forma de poema, um quase apelo popular, para deixar claro nossa forma de pensar e a que veio a United Sapiens.</p>
 
