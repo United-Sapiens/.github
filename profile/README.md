@@ -26,6 +26,24 @@
 
 <p align="justify">We created the “United Sapiens Clamor”, a short introductory text in the form of a poem, an almost popular appeal, to make clear my way of thinking and what United Sapiens came to.</p>
 
+```
+WE ARE SAPIENS
+
+ONE SPECIES, ONE PEOPLE
+
+TOGETHER WE'RE STRONGER
+
+UNITED WE'RE INVINCIBLE
+
+NO ONE WILL EVER DIVIDE US
+
+BY CASTE, RACE OR RELIGION
+
+FOR WE ARE LEGION
+
+ONE FOR ALL AND ALL FOR ONE
+```
+
 <p align="justify">I've already created the [United Sapiens landing page](https://www.united-sapiens.org). There you can check out the “United Sapiens Clamor” translated into many languages of many countries. I also make it clear that anyone can participate in the initiative, just send me an e-mail: &nbsp; :envelope: [united.sapiens.br@gmail.com](mailto:united.sapiens.br@gmail.com).</p>
 
 <h4 align="right">:vulcan_salute: &nbsp; Live Long and Prosper!</h4>
