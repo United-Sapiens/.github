@@ -8,7 +8,6 @@
 
 <p align="justify">The main idea behind the United Sapiens initiative is to make citizens and governments aware that we need to evolve our way of thinking and acting. And the first step is to “stamp in our minds” that we are all Sapiens, without divisions of caste, gender, race, religion, fortune, ideology, etc. This also includes any other type of prejudice or any other form of discrimination. In addition, there are other important guidelines that deserve attention.</p>
 <p> &nbsp; </p>
-
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/globe-icon.png" height="18px">  Our Global Goals
 
 - End of the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the United Nations Security Council;
@@ -22,7 +21,6 @@
     <a href="https://twitter.com/loto365"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> &nbsp;
     <a href="https://www.reddit.com/r/United_Sapiens/"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
 </p>
-<p> &nbsp; </p>
 
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/clamor-icon.png" height="18px">  United Sapiens Clamor
 
