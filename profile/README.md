@@ -13,6 +13,10 @@ The main idea behind the United Sapiens initiative is to make citizens and gover
 - Maintenance of non-violent protests against dictatorial governments;
 - Incorporation of the Universal Declaration of Human Rights into the current constitutions of all member countries of the United Nations.
 
-As you can see, there is a lot to be done to make the world a better place. I'll try to contribute with what I know how to do, programming and making free / open source software available. You can also contribute if you are interested. Criticism and suggestions are very welcome.
+As you can see, there is a lot to be done to make the world a better place. I'll try to contribute with what I know how to do, programming and making free / open source software available. You can also contribute if you are interested. Join the conversation on Reddit. Criticism and suggestions are very welcome.
+
+<p><a href="https://www.reddit.com/user/loto365"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=25></a></p>
 
 I've already created the [United Sapiens landing page](https://www.united-sapiens.org). There you can check out the “United Sapiens Clamor”, a short introductory text in the form of a poem, an almost popular appeal, to make clear my way of thinking and what United Sapiens came to. I also make it clear that anyone can participate in the initiative, just send me an email: &nbsp; :envelope: [united.sapiens.br@gmail.com](mailto:united.sapiens.br@gmail.com).
+
+<h4 align="right">:vulcan_salute: &nbsp; Live Long and Prosper!</h4>
