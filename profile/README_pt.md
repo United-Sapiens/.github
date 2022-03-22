@@ -6,6 +6,7 @@
 <p align="justify">O mundo se tornou bastante caótico e complicado nas últimas décadas, uma total “bad vibe escrota”. Após milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações a direitos humanos, etc. A meu ver, esquecemos o mais importante ao longo da história: somos todos Homo Sapiens, uma única espécie e um único povo.</p>
 
 <p align="justify">A principal ideia por trás da iniciativa United Sapiens é conscientizar cidadãos e governantes de que precisamos evoluir nossa forma de pensar e agir. E o primeiro passo é “carimbar em nossas mentes” que somos todos Sapiens, sem divisões de casta, gênero, raça, religião, fortuna, ideologia, etc. Inclui se aqui também qualquer outro tipo de preconceito ou qualquer outra forma de discriminação. Além disso, há outras pautas importantes que merecem atenção.</p>
+<p> &nbsp; </p>
 
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/globe-icon.png" height="18px"> Nossos Objetivos Globais
 
@@ -20,6 +21,7 @@
     <a href="https://twitter.com/loto365"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> &nbsp;
     <a href="https://www.reddit.com/r/United_Sapiens/"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
 </p>
+<p> &nbsp; </p>
 
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/clamor-icon.png" height="18px">  United Sapiens Clamor
 
@@ -38,6 +40,7 @@ UM POR TODOS E TODOS POR UM
 ```
 
 <p align="justify">Já elaborei a [landing page da United Sapiens](https://www.united-sapiens.org). Lá é possível conferir o “United Sapiens Clamor” traduzido para muitas línguas de muitos países. Também deixo claro que qualquer um poderá participar da iniciativa, bastando me enviar um e-mail: &nbsp; :envelope: [united.sapiens.br@gmail.com](mailto:united.sapiens.br@gmail.com).</p>
+<p> &nbsp; </p>
 
 > "Faça... ou não faça. Não existe a tentativa." — Yoda
 
