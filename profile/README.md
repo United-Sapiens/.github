@@ -19,8 +19,8 @@
 <p align="justify">As you can see, there is a lot to be done to make the world a better place. I'll try to contribute with what I know how to do, programming and making free / open source software available. You can also contribute if you are interested. Join the conversation on Twitter and Reddit. Criticism and suggestions are very welcome.</p>
 
 <p>
-    <a href="https://twitter.com/loto365"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> &nbsp;
-    <a href="https://www.reddit.com/r/United_Sapiens/"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
+    <a href="https://twitter.com/loto365" target="_blank"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> &nbsp;
+    <a href="https://www.reddit.com/r/United_Sapiens/" target="_blank"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
 </p>
 <p> &nbsp; </p>
 
@@ -40,7 +40,7 @@ FOR WE ARE LEGION
 ONE FOR ALL AND ALL FOR ONE
 ```
 
-<p align="justify">I've already created the <a href="https://www.united-sapiens.org">United Sapiens landing page</a>. There you can check out the “United Sapiens Clamor” translated into many languages of many countries. I also make it clear that anyone can participate in the initiative, just send me an e-mail: &nbsp; :envelope: <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
+<p align="justify">I've already created the <a href="https://www.united-sapiens.org" target="_blank">United Sapiens landing page</a>. There you can check out the “United Sapiens Clamor” translated into many languages of many countries. I also make it clear that anyone can participate in the initiative, just send me an e-mail: &nbsp; :envelope: <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
 <p> &nbsp; </p>
 
 > "Do... or do not. There is no try." &nbsp; — &nbsp; Yoda
