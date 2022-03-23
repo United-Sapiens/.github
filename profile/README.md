@@ -1,15 +1,15 @@
-![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/profile-banner_1500x400.png)
+![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/profile-banner_1500x400.png)
 
 <p align="right">:brazil: <a href="https://github.com/United-Sapiens/.github/blob/main/profile/README_pt.md">Português</a></p>
 
-# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/unsap-icon.png" height="21px">  The United Sapiens Initiative
+# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/unsap-icon.png" height="21px">  The United Sapiens Initiative
 
 <p align="justify">The world has become quite chaotic and complicated in the last few decades, a total “bad vibe". After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In our view, we have forgotten the most important thing throughout history: we are all Homo Sapiens, a single species and a single people.</p>
 
 <p align="justify">The main idea behind the United Sapiens initiative is to make citizens and governments aware that we need to evolve our way of thinking and acting. And the first step is to “stamp in our minds” that we are all Sapiens, without divisions of caste, gender, race, religion, fortune, ideology, etc. This also includes any other type of prejudice or any other form of discrimination. In addition, there are other important guidelines that deserve attention.</p>
 <br />
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/globe-icon.png" height="18px">  Our Global Goals
+## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/globe-icon.png" height="18px">  Our Global Goals
 
 - Stop all ongoing armed conflicts that are taking place around the world;
 - End of the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the United Nations Security Council;
@@ -26,7 +26,7 @@
 </p>
 <br />
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/clamor-icon.png" height="18px">  United Sapiens Clamor
+## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/clamor-icon.png" height="18px">  United Sapiens Clamor
 
 <p align="justify">We created the “United Sapiens Clamor”, a short introductory text in the form of a poem, an almost popular appeal, to make clear our way of thinking and what United Sapiens came to do.</p>
 
