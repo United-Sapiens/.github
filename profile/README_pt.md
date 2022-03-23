@@ -27,7 +27,7 @@
 
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/clamor-icon.png" height="18px">  Clamor United Sapiens
 
-<p align="justify">Criamos o “United Sapiens Clamor”, um pequeno texto introdutório na forma de poema, um quase apelo popular, para deixar claro nossa forma de pensar e a que veio a United Sapiens.</p>
+<p align="justify">Criamos o “Clamor United Sapiens”, um pequeno texto introdutório na forma de poema, um quase apelo popular, para deixar claro nossa forma de pensar e a que veio a United Sapiens.</p>
 
 ```
      NÓS SOMOS SAPIENS
@@ -41,7 +41,7 @@
      UM POR TODOS E TODOS POR UM
 ```
 
-<p align="justify">Já elaboramos a <a href="https://www.united-sapiens.org" target="_blank">landing page da United Sapiens</a>. Lá é possível conferir o “United Sapiens Clamor” traduzido para muitas línguas de muitos países. Também deixamos claro que qualquer um poderá participar da iniciativa, bastando nos enviar um e-mail: &nbsp; :envelope: <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
+<p align="justify">Já elaboramos a <a href="https://www.united-sapiens.org" target="_blank">landing page da United Sapiens</a>. Lá é possível conferir o “Clamor United Sapiens” traduzido para muitas línguas de muitos países. Também deixamos claro que qualquer um poderá participar da iniciativa, bastando nos enviar um e-mail: &nbsp; :envelope: <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
 <p> &nbsp; </p>
 
 > "Faça... ou não faça. Não existe a tentativa." &nbsp; — &nbsp; Yoda

@@ -27,7 +27,7 @@
 
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/clamor-icon.png" height="18px">  United Sapiens Clamor
 
-<p align="justify">We created the “United Sapiens Clamor”, a short introductory text in the form of a poem, an almost popular appeal, to make clear our way of thinking and what United Sapiens came to.</p>
+<p align="justify">We created the “United Sapiens Clamor”, a short introductory text in the form of a poem, an almost popular appeal, to make clear our way of thinking and what United Sapiens came to do.</p>
 
 ```
      WE ARE SAPIENS
