@@ -1,5 +1,6 @@
-:uk: &nbsp; [English version](https://github.com/United-Sapiens/.github/blob/main/profile/README.md)
 ![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/profile-banner_1500x400.png)
+
+<p align="right">:uk: &nbsp; <a href="https://github.com/United-Sapiens/.github/blob/main/profile/README.md">English</a></p>
 
 # <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/unsap-icon.png" height="21px"> A iniciativa United Sapiens
 
@@ -11,9 +12,10 @@
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/globe-icon.png" height="18px"> Nossos Objetivos Globais
 
 - Fim do poder de veto dos cinco membros permanentes (China, Estados Unidos, França, Reino Unido, Rússia) no Conselho de Segurança das Nações Unidas;
+- Reconhecimento do Conselho de Segurança como única aliança militar oficial, em prol dos países membros das Nações Unidas;
 - Encerramento de todas as alianças militares correntes (e.g. OTAN);
-- Manutenção de protestos não-violentos aos governos ditatoriais;
-- Incorporação da Declaração Universal dos Direitos Humanos nas constituições em vigor de todos os países membros das Nações Unidas.
+- Incorporação da Declaração Universal dos Direitos Humanos nas constituições de todos os países membros das Nações Unidas;
+- Manutenção de protestos não-violentos contra os governos ditatoriais em vigor.
 
 <p align="justify">Como se pode ver, há muito o que fazer para tornar o mundo um lugar melhor. Qualquer um pode contribuir da maneira que puder. Contribua você também se tiver interesse. Junte-se à conversa no Twitter e Reddit. Críticas e sugestões serão muito bem-vindas.</p>
 

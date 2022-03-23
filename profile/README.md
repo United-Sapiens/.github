@@ -1,6 +1,6 @@
-:brazil: &nbsp; [Texto em Português](https://github.com/United-Sapiens/.github/blob/main/profile/README_pt.md)
 ![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/profile-banner_1500x400.png)
 
+<p align="right">:brazil: &nbsp; <a href="https://github.com/United-Sapiens/.github/blob/main/profile/README_pt.md">Português</a></p>
 
 # <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/unsap-icon.png" height="21px">  The United Sapiens Initiative
 
@@ -12,9 +12,10 @@
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/globe-icon.png" height="18px">  Our Global Goals
 
 - End of the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the United Nations Security Council;
+- Recognition of the Security Council as the only official military alliance, for the benefit of all member countries of the United Nations;
 - Termination of all current military alliances (e.g. NATO);
-- Maintenance of non-violent protests against dictatorial governments;
-- Incorporation of the Universal Declaration of Human Rights into the current constitutions of all member countries of the United Nations.
+- Incorporation of the Universal Declaration of Human Rights into the constitutions of all member countries of the United Nations;
+- Maintenance of non-violent protests against existing dictatorial governments.
 
 <p align="justify">As you can see, there is a lot to be done to make the world a better place. Anyone can contribute the way they can. You can also contribute if you are interested. Join the conversation on Twitter and Reddit. Criticism and suggestions are very welcome.</p>
 
