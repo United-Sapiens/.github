@@ -11,6 +11,7 @@
 
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/globe-icon.png" height="18px"> Nossos Objetivos Globais
 
+- Término de todos os conflitos armados em andamento que estão ocorrendo em todo o mundo;
 - Fim do poder de veto dos cinco membros permanentes (China, Estados Unidos, França, Reino Unido, Rússia) no Conselho de Segurança das Nações Unidas;
 - Reconhecimento do Conselho de Segurança como única aliança militar oficial, em prol dos países membros das Nações Unidas;
 - Encerramento de todas as alianças militares correntes (e.g. OTAN);

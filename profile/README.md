@@ -11,6 +11,7 @@
 
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/profile/assets/globe-icon.png" height="18px">  Our Global Goals
 
+- Stop all ongoing armed conflicts that are taking place around the world;
 - End of the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the United Nations Security Council;
 - Recognition of the Security Council as the only official military alliance, for the benefit of all member countries of the United Nations;
 - Termination of all current military alliances (e.g. NATO);
