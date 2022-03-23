@@ -30,15 +30,15 @@
 <p align="justify">We created the “United Sapiens Clamor”, a short introductory text in the form of a poem, an almost popular appeal, to make clear our way of thinking and what United Sapiens came to.</p>
 
 ```
-          WE ARE SAPIENS
-          ONE SPECIES, ONE PEOPLE
-          TOGETHER WE'RE STRONGER
-          UNITED WE'RE INVINCIBLE
+     WE ARE SAPIENS
+     ONE SPECIES, ONE PEOPLE
+     TOGETHER WE'RE STRONGER
+     UNITED WE'RE INVINCIBLE
 
-                    NO ONE WILL EVER DIVIDE US
-                    BY CASTE, RACE OR RELIGION
-                    FOR WE ARE LEGION
-                    ONE FOR ALL AND ALL FOR ONE
+     NO ONE WILL EVER DIVIDE US
+     BY CASTE, RACE OR RELIGION
+     FOR WE ARE LEGION
+     ONE FOR ALL AND ALL FOR ONE
 ```
 
 <p align="justify">We've already created the <a href="https://www.united-sapiens.org" target="_blank">United Sapiens landing page</a>. There you can check out the “United Sapiens Clamor” translated into many languages of many countries. We also make it clear that anyone can participate in the initiative, just send us an e-mail: &nbsp; :envelope: <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
