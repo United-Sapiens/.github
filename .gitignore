@@ -36,13 +36,27 @@ bower_components
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
+/dist
+/tmp
+/out-tsc
+/bazel-out
 
 # Dependency directories
 node_modules/
 jspm_packages/
+npm-debug.log
+yarn-error.log
 
 # TypeScript v1 declaration files
 typings/
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
 
 # TypeScript cache
 *.tsbuildinfo
@@ -80,7 +94,6 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
@@ -103,8 +116,24 @@ dist
 # TernJS port file
 .tern-port
 
-# Project files
-.vscode/
-.vscode/settings.json
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+.history/*
 prettierignore.txt
 unsap-org.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project files
+package-lock.json
