@@ -136,4 +136,5 @@ unsap-org.code-workspace
 Thumbs.db
 
 # Project files
+.angular/
 package-lock.json
