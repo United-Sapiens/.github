@@ -126,8 +126,8 @@ testem.log
 *.sublime-workspace
 
 # Visual Studio Code
-.vscode/*
-.history/*
+.vscode/
+.history/
 prettierignore.txt
 unsap-org.code-workspace
 
