@@ -19,7 +19,7 @@ pids
 lib-cov
 
 # Coverage directory used by tools like istanbul
-coverage
+/coverage
 *.lcov
 
 # nyc test coverage
@@ -54,7 +54,6 @@ typings/
 /.angular/cache
 .sass-cache/
 /connect.lock
-/coverage
 /libpeerconnection.log
 testem.log
 
@@ -96,7 +95,6 @@ testem.log
 .nuxt
 
 # Gatsby files
-.cache/
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
@@ -137,4 +135,5 @@ Thumbs.db
 
 # Project files
 .angular/
+etc/
 package-lock.json
