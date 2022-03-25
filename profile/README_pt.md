@@ -1,6 +1,6 @@
 ![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/profile-banner_1500x400.png)
 
-<p align="right">:uk: <a href="https://github.com/United-Sapiens/.github/blob/main/profile/README.md">English</a></p>
+<p align="right">:uk: <a href="https://github.com/United-Sapiens">English</a></p>
 
 # <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/unsap-icon.png" height="21px"> A iniciativa United Sapiens
 
