@@ -42,11 +42,11 @@
      ONE FOR ALL AND ALL FOR ONE
 ```
 
-<p align="justify">We've already created the <a href="https://www.united-sapiens.org" target="_blank">United Sapiens landing page</a>. There you can check out the “United Sapiens Clamor” translated into many languages of many countries. We also make it clear that anyone can participate in the initiative, just send us an e-mail: &nbsp; :envelope: <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
+<p align="justify">We've already created the <a href="https://www.united-sapiens.org" target="_blank">United Sapiens landing page</a>. There you can check out the “United Sapiens Clamor” translated into many languages of many countries. We also make it clear that anyone can participate in the initiative, just send us an e-mail:&nbsp; <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
 <br />
 
 > "Do... or do not. There is no try." &nbsp; — &nbsp; Yoda
 
 - - -
 
-<h4 align="right">:vulcan_salute: &nbsp; Live Long and Prosper!</h4>
+<h4 align="right">:vulcan_salute:&nbsp; Live Long and Prosper!</h4>

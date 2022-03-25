@@ -42,7 +42,7 @@
      UM POR TODOS E TODOS POR UM
 ```
 
-<p align="justify">Já elaboramos a <a href="https://www.united-sapiens.org" target="_blank">landing page da United Sapiens</a>. Lá é possível conferir o “Clamor United Sapiens” traduzido para muitas línguas de muitos países. Também deixamos claro que qualquer um poderá participar da iniciativa, bastando nos enviar um e-mail: &nbsp; :envelope: <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
+<p align="justify">Já elaboramos a <a href="https://www.united-sapiens.org" target="_blank">landing page da United Sapiens</a>. Lá é possível conferir o “Clamor United Sapiens” traduzido para muitas línguas de muitos países. Também deixamos claro que qualquer um poderá participar da iniciativa, bastando nos enviar um e-mail: &nbsp; <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
 <br />
 
 > "Faça... ou não faça. Não existe a tentativa." &nbsp; — &nbsp; Yoda
