@@ -21,7 +21,7 @@
 <p align="justify">As you can see, there is a lot to be done to make the world a better place. Anyone can contribute the way they can. You can also contribute if you are interested. Join the conversation on Twitter and Instagram. Criticism and suggestions are very welcome.</p>
 
 <p>
-    <a href="https://twitter.com/loto365" target="_blank"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> &nbsp;
+    <a href="https://twitter.com/United_Sapiens" target="_blank"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> &nbsp;
     <a href="https://www.instagram.com/united_sapiens/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23bc2a8d.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 <br />
