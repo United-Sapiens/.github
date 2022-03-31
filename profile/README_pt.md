@@ -2,11 +2,11 @@
 
 <p align="right">:uk: <a href="https://github.com/United-Sapiens">English</a></p>
 
-# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/unsap-icon.png" height="21px"> A iniciativa United Sapiens
+# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/unsap-icon.png" height="21px"> A iniciativa Sapiens Unidos
 
 <p align="justify">O mundo se tornou bastante caótico e complicado nas últimas décadas, uma total “bad vibe escrota”. Após milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações a direitos humanos, etc. A meu ver, esquecemos o mais importante ao longo da história: <b>nós somos todos Homo Sapiens, uma única espécie e um único povo</b>.</p>
 
-<p align="justify">A principal ideia por trás da iniciativa <b>United Sapiens</b> é conscientizar cidadãos e governantes de que precisamos evoluir nossa forma de pensar e agir. E o primeiro passo é “carimbar em nossas mentes” que somos todos Sapiens, sem divisões de casta, gênero, raça, religião, fortuna, ideologia, etc. Inclui se aqui também qualquer outro tipo de preconceito ou qualquer outra forma de discriminação. Além disso, há outras pautas importantes que merecem atenção.</p>
+<p align="justify">A principal ideia por trás da iniciativa <b>Sapiens Unidos</b> é conscientizar cidadãos e governantes de que precisamos evoluir nossa forma de pensar e agir. E o primeiro passo é “carimbar em nossas mentes” que somos todos Sapiens, sem divisões de casta, gênero, raça, religião, fortuna, ideologia, etc. Inclui se aqui também qualquer outro tipo de preconceito ou qualquer outra forma de discriminação. Além disso, há outras pautas importantes que merecem atenção.</p>
 <br />
 
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/globe-icon.png" height="18px"> Objetivos Globais
@@ -28,7 +28,7 @@
 
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/clamor-icon.png" height="18px">  Clamor United Sapiens
 
-<p align="justify">Eu criei o <b>“Clamor United Sapiens”</b>, um pequeno texto introdutório na forma de poema, um quase apelo popular, para deixar claro minha forma de pensar e a que veio a United Sapiens.</p>
+<p align="justify">Eu criei o <b>“Clamor Sapiens Unidos”</b>, um pequeno texto introdutório na forma de poema, um quase apelo popular, para deixar claro minha forma de pensar e a que veio a <b>Sapiens Unidos</b>.</p>
 
 ```
      NÓS SOMOS SAPIENS
@@ -42,7 +42,7 @@
      UM POR TODOS E TODOS POR UM
 ```
 
-<p align="justify">Já elaborei a <a href="https://www.united-sapiens.org" target="_blank">landing page da United Sapiens</a>. Lá é possível conferir o <b>“Clamor United Sapiens”</b> traduzido para muitas línguas de muitos países. Também deixo claro que qualquer um poderá participar da iniciativa, bastando me enviar um e-mail:&nbsp; <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
+<p align="justify">Já elaborei a <a href="https://www.united-sapiens.org" target="_blank">landing page da United Sapiens</a>. Lá é possível conferir o <b>“Clamor Sapiens Unidos”</b> traduzido para muitas línguas de muitos países. Também deixo claro que qualquer um poderá participar da iniciativa, bastando me enviar um e-mail:&nbsp; <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
 <br />
 
 > "Faça... ou não faça. Não existe a tentativa." &nbsp; — &nbsp; Yoda
