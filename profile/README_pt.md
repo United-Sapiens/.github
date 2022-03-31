@@ -26,19 +26,19 @@
 </p>
 <br />
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/clamor-icon.png" height="18px">  Clamor United Sapiens
+## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/clamor-icon.png" height="18px">  Clamor Sapiens Unidos
 
 <p align="justify">Eu criei o <b>“Clamor Sapiens Unidos”</b>, um pequeno texto introdutório na forma de poema, um quase apelo popular, para deixar claro minha forma de pensar e a que veio a <b>Sapiens Unidos</b>.</p>
 
 ```
      NÓS SOMOS SAPIENS
-     UMA SÓ ESPÉCIE, UM SÓ POVO
+     UMA SÓ ESPÉCIE DE UM SÓ POVO
      JUNTOS SOMOS MAIS FORTES
      UNIDOS SOMOS INVENCÍVEIS
 
      NINGUÉM JAMAIS NOS DIVIDIRÁ
      POR CASTA, RAÇA OU RELIGIÃO
-     POIS NÓS SOMOS LEGIÃO
+     PORQUE NÓS SOMOS LEGIÃO
      UM POR TODOS E TODOS POR UM
 ```
 
