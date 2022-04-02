@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/unsap-icon.png" height="21px"> A iniciativa Sapiens Unidos
 
-<p align="justify">O mundo se tornou bastante caótico e complicado nas últimas décadas, uma total “bad vibe escrota”. Após milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações a direitos humanos, etc. A meu ver, esquecemos o mais importante ao longo da história: <b>nós somos todos Homo Sapiens, uma única espécie e um único povo</b>.</p>
+<p align="justify">O mundo se tornou bastante caótico e complicado nas últimas décadas, uma total “bad vibe”. Após milênios de civilização ainda temos guerras, massacres, genocídios, crimes hediondos, violações a direitos humanos, etc. A meu ver, esquecemos o mais importante ao longo da história: <b>nós somos todos Homo Sapiens, uma única espécie e um único povo</b>.</p>
 
 <p align="justify">A principal ideia por trás da iniciativa <b>Sapiens Unidos</b> é conscientizar cidadãos e governantes de que precisamos evoluir nossa forma de pensar e agir. E o primeiro passo é “carimbar em nossas mentes” que somos todos Sapiens, sem divisões de casta, gênero, raça, religião, fortuna, ideologia, etc. Inclui se aqui também qualquer outro tipo de preconceito ou qualquer outra forma de discriminação. Além disso, há outras pautas importantes que merecem atenção.</p>
 <br />
