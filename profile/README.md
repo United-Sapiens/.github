@@ -26,9 +26,9 @@
 </p>
 <br />
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/clamor-icon.png" height="18px">  United Sapiens Clamor
+## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/clamor-icon.png" height="18px">  United Sapiens' Clamor
 
-<p align="justify">I created the <b>United Sapiens Clamor</b>, a short introductory text in the form of a poem, an almost popular appeal, to make clear my way of thinking and what <b>United Sapiens</b> came to do.</p>
+<p align="justify">I created the <b>United Sapiens' Clamor</b>, a short introductory text in the form of a poem, an almost popular appeal, to make clear my way of thinking and what <b>United Sapiens</b> came to do.</p>
 
 ```
      WE ARE SAPIENS
@@ -42,7 +42,7 @@
      ONE FOR ALL AND ALL FOR ONE
 ```
 
-<p align="justify">I've already created the <a href="https://www.united-sapiens.org" target="_blank">United Sapiens landing page</a>. There you can check out the <b>United Sapiens Clamor</b> translated into many languages of many countries. I also make it clear that anyone can participate in the initiative, just send me an e-mail:&nbsp; <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
+<p align="justify">I've already created the <a href="https://www.united-sapiens.org" target="_blank">United Sapiens landing page</a>. There you can check out the <b>United Sapiens' Clamor</b> translated into many languages of many countries. I also make it clear that anyone can participate in the initiative, just send me an e-mail:&nbsp; <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
 <br />
 
 > "Do... or do not. There is no try." &nbsp; — &nbsp; Yoda
