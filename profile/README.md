@@ -1,4 +1,4 @@
-![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/profile-banner_1500x400.png)
+![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/profile-banner.jpg)
 
 
 # <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/unsap-icon.png" height="21px">  The United Sapiens Initiative
