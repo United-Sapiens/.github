@@ -18,7 +18,7 @@
 - Incorporation of the Universal Declaration of Human Rights into the constitutions of all member countries of the United Nations;
 - Maintenance of non-violent protests against existing dictatorial governments.
 
-<p align="justify">As you can see, there is a lot to be done to make the world a better place. Anyone can contribute the way they can. You can also contribute if you are interested. Join the conversation on Twitter and Instagram. Criticism and suggestions are very welcome.</p>
+<p align="justify">As you can see, there is a lot to be done to make the world a better place. Anyone can contribute the way they can. You can also contribute if you are interested. Join the conversation on Twitter and Instagram. Your comments and suggestions are always welcome.</p>
 
 <p>
     <a href="https://twitter.com/United_Sapiens" target="_blank"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> &nbsp;
@@ -39,12 +39,12 @@
 
      NO ONE SHALL EVER DIVIDE US
      BY CASTE, RACE OR RELIGION
-     FOR WE ARE LEGION
+     OUR UNION WILL BECOME LEGION
      ONE FOR ALL AND ALL FOR ONE
 ```
 
 <p align="justify">I've already created the <a href="https://www.united-sapiens.org" target="_blank">United Sapiens landing page</a>. There you can check out the <b>United Sapiens' Clamor</b> translated into many languages of many countries. I also make it clear that anyone can participate in the initiative, just send me an e-mail:&nbsp; <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
-<br />
+<br /><br />
 
 
 > "Do... or do not. There is no try." &nbsp; — &nbsp; Yoda
