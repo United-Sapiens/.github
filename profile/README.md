@@ -17,7 +17,7 @@
 <br />
 
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/global-goals.png" height="22px">&nbsp;  Global Goals
+# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/global-goals.png" height="22px">&nbsp;  Global Goals
 
 - Stop all ongoing armed conflicts that are taking place around the world;
 - End of the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the United Nations Security Council;
@@ -36,7 +36,7 @@
 <br />
 
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/clamor-icon.png" height="22px">&nbsp; United Sapiens' Clamor
+# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/clamor-icon.png" height="22px">&nbsp; United Sapiens' Clamor
 
 <p align="justify">I created the <b>United Sapiens' Clamor</b>, a short introductory text in the form of a poem, an almost popular appeal, to make clear my way of thinking and what <b>United Sapiens</b> came to do.</p>
 
