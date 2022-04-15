@@ -6,10 +6,7 @@
 <p align="justify">The world has become quite chaotic and complicated in the last few decades, a total “bad vibe". After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In my view, we have forgotten the most important thing throughout history: <b>we are all Homo Sapiens, a single species and a single people</b>.</p>
 
 <p align="justify">The main idea behind the <b>United Sapiens</b> initiative is to make citizens and governments aware that we need to evolve our way of thinking and acting. And the first step is to “stamp in our minds” that we are all Sapiens, without divisions of caste, gender, race, religion, fortune, ideology, etc. This also includes any other type of prejudice or any other form of discrimination. In addition, there are other important guidelines that deserve attention.</p>
-<br /><br />
-
-
-![United Sapiens banner 2](https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/profile-banner-2.jpg)
+<br />
 
 
 ## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/globe-icon.png" height="18px">  Global Goals
@@ -20,6 +17,10 @@
 - Termination of all current military alliances (e.g. NATO);
 - Incorporation of the Universal Declaration of Human Rights into the constitutions of all member countries of the United Nations;
 - Maintenance of non-violent protests against existing dictatorial governments.
+
+
+![United Sapiens banner 2](https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/profile-banner-2.jpg)
+
 
 <p align="justify">As you can see, there is a lot to be done to make the world a better place. Anyone can contribute the way they can. You can also contribute if you are interested. Join the conversation on Twitter and Instagram. Your comments and suggestions are always welcome.</p>
 
