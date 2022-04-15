@@ -1,7 +1,15 @@
 ![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/profile-banner.jpg)
 
 
-# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/globe-icon.png" height="21px">  The United Sapiens Initiative
+# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/globe-icon.png" height="21px">&nbsp;  Long Live the United Nations
+
+<p align="justify">...</p>
+
+<p align="justify">...</p>
+<br />
+
+
+# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/unsap-icon.png" height="21px">&nbsp;  The United Sapiens Initiative
 
 <p align="justify">The world has become quite chaotic and complicated in the last few decades, a total “bad vibe". After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In my view, we have forgotten the most important thing throughout history: <b>we are all Homo Sapiens, a single species and a single people</b>.</p>
 
@@ -9,7 +17,7 @@
 <br />
 
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/global-goals.png" height="18px">  Global Goals
+## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/global-goals.png" height="18px">&nbsp;  Global Goals
 
 - Stop all ongoing armed conflicts that are taking place around the world;
 - End of the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the United Nations Security Council;
@@ -28,7 +36,7 @@
 <br />
 
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/clamor-icon.png" height="18px">  United Sapiens' Clamor
+## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/clamor-icon.png" height="18px">&nbsp; United Sapiens' Clamor
 
 <p align="justify">I created the <b>United Sapiens' Clamor</b>, a short introductory text in the form of a poem, an almost popular appeal, to make clear my way of thinking and what <b>United Sapiens</b> came to do.</p>
 
