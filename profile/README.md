@@ -1,7 +1,7 @@
 ![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/profile-banner.jpg)
 
 
-# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/unsap-icon.png" height="21px">  The United Sapiens Initiative
+# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/globe-icon.png" height="21px">  The United Sapiens Initiative
 
 <p align="justify">The world has become quite chaotic and complicated in the last few decades, a total “bad vibe". After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In my view, we have forgotten the most important thing throughout history: <b>we are all Homo Sapiens, a single species and a single people</b>.</p>
 
@@ -9,7 +9,7 @@
 <br />
 
 
-## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/globe-icon.png" height="18px">  Global Goals
+## <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/global-goals.png" height="18px">  Global Goals
 
 - Stop all ongoing armed conflicts that are taking place around the world;
 - End of the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the United Nations Security Council;
