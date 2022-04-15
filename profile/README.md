@@ -1,4 +1,4 @@
-![United Sapiens banner 1](https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/profile-banner-1.jpg)
+![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/profile-banner.jpg)
 
 
 # <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/unsap-icon.png" height="21px">  The United Sapiens Initiative
@@ -17,10 +17,6 @@
 - Termination of all current military alliances (e.g. NATO);
 - Incorporation of the Universal Declaration of Human Rights into the constitutions of all member countries of the United Nations;
 - Maintenance of non-violent protests against existing dictatorial governments.
-
-
-![United Sapiens banner 2](https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/profile-banner-2.jpg)
-
 
 <p align="justify">As you can see, there is a lot to be done to make the world a better place. Anyone can contribute the way they can. You can also contribute if you are interested. Join the conversation on Twitter and Instagram. Your comments and suggestions are always welcome.</p>
 
