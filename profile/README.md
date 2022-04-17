@@ -11,7 +11,7 @@
 
 # <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/unsap-icon.png" height="22px">&nbsp;  The United Sapiens Initiative
 
-<p align="justify">The world has become quite chaotic and complicated in the last few decades, a total “bad vibe". After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In my view, we have forgotten the most important thing throughout history: <b>we are all Homo Sapiens, a single species and a single people</b>.</p>
+<p align="justify">The world has become quite chaotic and complicated in the last few decades, a total “bad vibe". After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In my view, we have forgotten the most important thing throughout history: <b>we are all Homo Sapiens, a single species of a single people</b>.</p>
 
 <p align="justify">The main idea behind the <b>United Sapiens</b> initiative is to make citizens and governments aware that we need to evolve our way of thinking and acting. And the first step is to “stamp in our minds” that we are all Sapiens, without divisions of caste, gender, race, religion, fortune, ideology, etc. This also includes any other type of prejudice or any other form of discrimination. In addition, there are other important guidelines that deserve attention.</p>
 <br />
@@ -26,12 +26,14 @@
 - Incorporation of the Universal Declaration of Human Rights into the constitutions of all member countries of the United Nations;
 - Maintenance of non-violent protests against existing dictatorial governments.
 
-<p align="justify">As you can see, there is a lot to be done to make the world a better place. Anyone can contribute the way they can. You can also contribute if you are interested. Join the conversation on Twitter and Instagram. Your comments and suggestions are always welcome.</p>
+<p align="justify">As you can see, there is a lot to be done to make the world a better place. Anyone can contribute the way they can. You can also contribute if you are interested. Join the conversation on any of the social networks below. Your comments and suggestions are always welcome.</p>
 
 <p>
-    <a href="https://twitter.com/United_Sapiens" target="_blank"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;
-    <a href="https://www.instagram.com/united_sapiens" target="_blank"><img src="https://img.shields.io/badge/instagram-%23bc2a8d.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;
-    <a href="https://www.youtube.com/channel/UC_P9YRTAJArvjE-68gPVfYg" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=32></a>
+    <a href="https://twitter.com/United_Sapiens"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;
+    <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;
+    <a href="https://www.reddit.com/user/united_sapiens"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=32></a> &nbsp;
+    <a href="https://www.linkedin.com/in/united-sapiens/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32></a> &nbsp;
+    <a href="https://www.youtube.com/channel/UC_P9YRTAJArvjE-68gPVfYg"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=32></a>
 </p>
 <br />
 
@@ -56,7 +58,7 @@
 <br /><br />
 
 
-> "Do... or do not. There is no try." &nbsp; — &nbsp; Yoda
+> "Those who cannot remember the past are condemned to repeat it." &nbsp; — &nbsp; George Santayana
 
 - - -
 
