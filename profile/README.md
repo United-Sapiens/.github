@@ -54,12 +54,12 @@
      ONE FOR ALL AND ALL FOR ONE
 ```
 
-<p align="justify">I've already created the <a href="https://www.united-sapiens.org" target="_blank">United Sapiens landing page</a>. There you can check out the <b>United Sapiens' Clamor</b> translated into many languages of many countries. I also make it clear that anyone can participate in the initiative, just send me an e-mail:&nbsp; <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
+<p align="justify">I've already created the <a href="https://www.united-sapiens.org">United Sapiens landing page</a>. There you can check out the <b>United Sapiens' Clamor</b> translated into many languages of many countries. I also make it clear that anyone can participate in the initiative, just send me an e-mail:&nbsp; <a href="mailto:united.sapiens.br@gmail.com">united.sapiens.br@gmail.com</a>.</p>
 <br /><br />
 
 
-> "Those who cannot remember the past are condemned to repeat it." &nbsp; — &nbsp; George Santayana
+> "Those who cannot remember the past are condemned to repeat it." &nbsp; — &nbsp; <a href="https://en.wikipedia.org/wiki/George_Santayana">George Santayana</a>
 
 - - -
 
-<h4 align="right">:vulcan_salute:&nbsp; Live Long and Prosper!</h4>
+<h4 align="right">:vulcan_salute:&nbsp; Live Long and Prosper.</h4>
