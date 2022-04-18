@@ -8,9 +8,9 @@
 - France has no friends, only interests.
 - England has no eternal friends, England has no perpetual enemies, England has only eternal and perpetual interests.
 - The United States of America has no friends; have interests.
-- Nations have no permanent friends or permanent enemies, only permanent interests.
-- Countries never become friends, it's their interest in what they pretend to be friends with.
-- Men may have friends, statesmen may not.
+- Nations have no permanent friends and no permanent enemies, only permanent interests.
+- Countries never become friends, it is their interest for what they pretend to be friend.
+- Men can have friends, statesmen cannot.
 
 <p align="justify">The greatest threat facing the <b>United Nations</b> is the risk of being discredited, of becoming a front political organization and having the same fate as the League of Nations, which was created in 1919 but closed after three decades for not having fulfilled its main purpose of preventing wars. Several wars and conflicts have occurred since the founding of the <b>United Nations</b> as a result of the failure of negotiations.</p>
 
@@ -22,9 +22,9 @@
 
 <p align="justify">The main idea behind the <b>United Sapiens</b> initiative is to make citizens and governments aware that we need to evolve our way of thinking and acting. In this sense, the first step is to "stamp in our minds" that we are all Homo Sapiens, without divisions of caste, gender, race, religion, fortune, ideology, etc. This also includes any other type of prejudice or any other form of discrimination.</p>
 
-<p align="justify">In addition, there are other important guidelines that deserve attention. Countries that surrender to dictatorial or fascist regimes are precisely those that harm international negotiations and cause conflicts. Yet, the recent rise of far-right extremism in some nations poses a great risk to established democracies. The populations of these nations need to be aware of the risk to which they are subject.</p>
+<p align="justify">In addition, there are other important guidelines that deserve attention. Countries that surrender to dictatorial or fascist regimes are precisely those that harm international negotiations and cause conflicts. Also, the recent rise of far-right extremism in some nations poses a great risk to established democracies. The populations of these nations need to be aware of the risk to which they are subject.</p>
 
-<p align="justify">Knowledge of geopolitics is important to understand the real intention of certain fascist leaders, because they usually tend to act in a populist way at the beginning and evolve to authoritarianism after coming to power. Those nations that cannot remember the past mistakes of other nations are doomed to repeat them. An important activity that <b>United Sapiens</b> intends to carry out on this issue is to show people that geopolitics is everywhere — hence the intention to act on a global level.</p>
+<p align="justify">Knowledge of geopolitics is important to understand the real intention of certain fascist leaders, because they usually tend to act in a populist way at the beginning and evolve to authoritarianism after coming to power. Those nations who cannot remember the past mistakes of other nations are condemned to repeat them. An important activity that <b>United Sapiens</b> intends to carry out on this issue is to show people that geopolitics is everywhere — hence the intention to act on a global level.</p>
 <br />
 
 
@@ -32,12 +32,12 @@
 
 <p align="justify">The <b>United Nations</b> still has a wide spectrum of problems to solve. In my opinion, the large number of deaths resulting from the ongoing wars and the constant influx of refugees make the following goals a priority:</p>
 
-- Eliminate the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the United Nations Security Council;
-- Make the Security Council the only official military alliance, for the benefit of the member countries of the United Nations;
+- Eliminate the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the <b>United Nations Security Council</b>;
+- Make the <b>Security Council</b> the only official military alliance, for the benefit of the member countries of the <b>United Nations</b>;
 - Terminate all current military alliances (e.g., NATO);
 - Stop all the ongoing armed conflicts that are taking place around the world;
 - Dissolve existing dictatorial regimes and restore democracy in these nations;
-- Incorporate the Universal Declaration of Human Rights into the constitutions of all member countries of the United Nations.
+- Incorporate the <b>Universal Declaration of Human Rights</b> into the constitutions of all member countries of the <b>United Nations</b>.
 
 <p align="justify">As you can see, there is a lot to be done to make the world a better place. Anyone can contribute in any way they can. You can also contribute if you are interested. Join the conversation on any of the social networks below. Your comments and suggestions are always welcome.</p>
 
@@ -53,7 +53,7 @@
 
 # <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/clamor-icon.png" height="22px">&nbsp; United Sapiens' Clamor
 
-<p align="justify">The short text that I call <b>United Sapiens' Clamor</b>, in the form of a poem and almost a popular appeal, is an allusion to the great potential that human beings could achieve if everyone united for peace, without divisions and without the need for wars. In my opinion, we have forgotten the most important thing throughout history:&nbsp; WE ARE ALL HOMO SAPIENS, A SINGLE SPECIES OF A SINGLE PEOPLE.</p>
+<p align="justify">The short text that I call <b>United Sapiens' Clamor</b>, in the form of a poem and with a popular appeal, is an allusion to the great potential that human beings could achieve if everyone united for peace, without divisions and without the need for wars. In my opinion, we have forgotten the most important thing throughout history:&nbsp; WE ARE ALL HOMO SAPIENS, A SINGLE SPECIES OF A SINGLE PEOPLE.</p>
 
 ```
      WE ARE SAPIENS
