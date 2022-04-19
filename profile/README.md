@@ -12,9 +12,9 @@
 - Countries never become friends, it is their interest for what they pretend to be friend.
 - Men can have friends, statesmen cannot.
 
-<p align="justify" style="font-size:1.2em">The greatest threat facing the <b>United Nations</b> is the risk of being discredited, of becoming a front political organization and having the same fate as the <b>League of Nations</b>, which was created in 1919 but closed after three decades for not having fulfilled its main purpose of preventing wars. Several wars and conflicts have occurred since the founding of the <b>United Nations</b> as a result of the failure of negotiations.</p>
+<p align="justify">The greatest threat facing the <b>United Nations</b> is the risk of being discredited, of becoming a front political organization and having the same fate as the <b>League of Nations</b>, which was created in 1919 but closed after three decades for not having fulfilled its main purpose of preventing wars. Several wars and conflicts have occurred since the founding of the <b>United Nations</b> as a result of the failure of negotiations.</p>
 
-<p align="justify" class="f4">I still have hope that we can achieve a state of world peace, without armed conflicts or political rivalries. However, I am fully aware that we are still very far from this ideal. We need to focus on ending dictatorial regimes, removing the military from these governments and restoring democracy in these nations. It would be an important step towards the progress of international relations.</p>
+<p align="justify">I still have hope that we can achieve a state of world peace, without armed conflicts or political rivalries. However, I am fully aware that we are still very far from this ideal. We need to focus on ending dictatorial regimes, removing the military from these governments and restoring democracy in these nations. It would be an important step towards the progress of international relations.</p>
 <br />
 
 
@@ -22,7 +22,7 @@
 
 <p align="justify">The main idea behind the <b>United Sapiens</b> initiative is to make citizens and governments aware that we need to evolve our way of thinking and acting. In this sense, the first step is to "stamp in our minds" that <b>we are all human beings, without divisions of caste, gender, race, religion, fortune, ideology, etc</b>. This also includes any other type of prejudice or any other form of discrimination.</p>
 
-<p align="justify">In addition, there are other important guidelines that deserve attention. Countries that surrender to dictatorial or fascist regimes are precisely those that harm international negotiations and cause conflicts. Also, the recent rise of far-right extremism in some nations poses a great risk to established democracies. The populations of these nations need to be aware of the risk to which they are subject.</p>
+<p align="justify">In addition, there are other important guidelines that deserve attention. Countries that surrender to dictatorial or fascist regimes are precisely those that harm international negotiations and cause conflicts. Also, the recent rise of far-right extremism in some nations poses a great risk to established democracies. The citizens of these nations need to be aware of the risk to which they are subject.</p>
 
 <p align="justify">Knowledge of geopolitics is important to understand the real intention of certain fascist leaders, because they usually tend to act in a populist way at the beginning and evolve to authoritarianism after coming to power. Those nations who cannot remember the past mistakes of other nations are condemned to repeat them. An important activity that <b>United Sapiens</b> intends to carry out on this issue is to show people that geopolitics is everywhere — hence the intention to act on a global level.</p>
 <br />
@@ -32,7 +32,7 @@
 
 <p align="justify">The <b>United Nations</b> still has a wide spectrum of problems to solve. In my opinion, the large number of deaths resulting from the ongoing wars and the constant influx of refugees make the following goals a priority:</p>
 
-- Eliminate the veto power of the five permanent members (China, United States, France, United Kingdom, Russia) in the <b>United Nations Security Council</b>;
+- Eliminate the veto power of the five permanent members (China, France, Russia, United Kingdom, United States) in the <b>United Nations Security Council</b>;
 - Make the <b>Security Council</b> the only official military alliance, for the benefit of the member countries of the <b>United Nations</b>;
 - Terminate all current military alliances (e.g., NATO);
 - Stop all the ongoing armed conflicts that are taking place around the world;
