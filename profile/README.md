@@ -12,7 +12,7 @@
 - Countries never become friends, it is their interest for what they pretend to be friend.
 - Men can have friends, statesmen cannot.
 
-<p align="justify">The greatest threat facing the <b>United Nations</b> is the risk of being discredited, of becoming a front political organization and having the same fate as the League of Nations, which was created in 1919 but closed after three decades for not having fulfilled its main purpose of preventing wars. Several wars and conflicts have occurred since the founding of the <b>United Nations</b> as a result of the failure of negotiations.</p>
+<p align="justify">The greatest threat facing the <b>United Nations</b> is the risk of being discredited, of becoming a front political organization and having the same fate as the <b>League of Nations</b>, which was created in 1919 but closed after three decades for not having fulfilled its main purpose of preventing wars. Several wars and conflicts have occurred since the founding of the <b>United Nations</b> as a result of the failure of negotiations.</p>
 
 <p align="justify">I still have hope that we can achieve a state of world peace, without armed conflicts or political rivalries. However, I am fully aware that we are still very far from this ideal. We need to focus on ending dictatorial regimes, removing the military from these governments and restoring democracy in these nations. It would be an important step towards the progress of international relations.</p>
 <br />
@@ -20,7 +20,7 @@
 
 # <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/unsap-icon.png" height="22px">&nbsp;  The United Sapiens Initiative
 
-<p align="justify">The main idea behind the <b>United Sapiens</b> initiative is to make citizens and governments aware that we need to evolve our way of thinking and acting. In this sense, the first step is to "stamp in our minds" that we are all Homo Sapiens, without divisions of caste, gender, race, religion, fortune, ideology, etc. This also includes any other type of prejudice or any other form of discrimination.</p>
+<p align="justify">The main idea behind the <b>United Sapiens</b> initiative is to make citizens and governments aware that we need to evolve our way of thinking and acting. In this sense, the first step is to "stamp in our minds" that <b>we are all human beings, without divisions of caste, gender, race, religion, fortune, ideology, etc</b>. This also includes any other type of prejudice or any other form of discrimination.</p>
 
 <p align="justify">In addition, there are other important guidelines that deserve attention. Countries that surrender to dictatorial or fascist regimes are precisely those that harm international negotiations and cause conflicts. Also, the recent rise of far-right extremism in some nations poses a great risk to established democracies. The populations of these nations need to be aware of the risk to which they are subject.</p>
 
