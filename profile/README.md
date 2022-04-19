@@ -12,9 +12,9 @@
 - Countries never become friends, it is their interest for what they pretend to be friend.
 - Men can have friends, statesmen cannot.
 
-<p align="justify">The greatest threat facing the <b>United Nations</b> is the risk of being discredited, of becoming a front political organization and having the same fate as the <b>League of Nations</b>, which was created in 1919 but closed after three decades for not having fulfilled its main purpose of preventing wars. Several wars and conflicts have occurred since the founding of the <b>United Nations</b> as a result of the failure of negotiations.</p>
+<p align="justify" style="font-size:1.2em">The greatest threat facing the <b>United Nations</b> is the risk of being discredited, of becoming a front political organization and having the same fate as the <b>League of Nations</b>, which was created in 1919 but closed after three decades for not having fulfilled its main purpose of preventing wars. Several wars and conflicts have occurred since the founding of the <b>United Nations</b> as a result of the failure of negotiations.</p>
 
-<p align="justify">I still have hope that we can achieve a state of world peace, without armed conflicts or political rivalries. However, I am fully aware that we are still very far from this ideal. We need to focus on ending dictatorial regimes, removing the military from these governments and restoring democracy in these nations. It would be an important step towards the progress of international relations.</p>
+<p align="justify" class="f4">I still have hope that we can achieve a state of world peace, without armed conflicts or political rivalries. However, I am fully aware that we are still very far from this ideal. We need to focus on ending dictatorial regimes, removing the military from these governments and restoring democracy in these nations. It would be an important step towards the progress of international relations.</p>
 <br />
 
 
