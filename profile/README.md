@@ -1,7 +1,7 @@
 ![United Sapiens banner](https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/profile-banner.jpg)
 
 
-# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/onu-icon.png" height="22px">&nbsp;  Long Live the United Nations
+# <img src="https://raw.githubusercontent.com/United-Sapiens/.github/main/assets/onu-icon.png" height="22px">&nbsp;  Long Live The United Nations
 
 <p align="justify">In recent decades, since its founding in 1945, the <b>United Nations</b> has been committed to finding peaceful solutions to diverse international conflicts and political rivalries. The enormous difficulty in achieving world peace is a reflection of the tribalist and conservative nationalism still held by nations, rather than a sensible foreign policy. You may have read or heard some of the following statements:</p>
 
