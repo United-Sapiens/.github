@@ -39,14 +39,14 @@
 - Dissolve existing dictatorial regimes and restore democracy in these nations;
 - Incorporate the <b>Universal Declaration of Human Rights</b> into the constitutions of all member countries of the <b>United Nations</b>.
 
-<p align="justify">As you can see, there is a lot to be done to make the world a better place. Anyone can contribute in any way they can. You can also contribute if you are interested. Join the conversation on any of the social networks below. Your comments and suggestions are always welcome.</p>
+<p align="justify">As you can see, there is a lot to be done to make the world a better place. Anyone can contribute in any way they can. You can also contribute if you are interested. You can contact me on any of the social networks below. Your comments and suggestions are always welcome.</p>
 
 <p>
     <a href="https://twitter.com/United_Sapiens"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;
-    <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;
     <a href="https://www.reddit.com/user/united_sapiens"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=32></a> &nbsp;
-    <a href="https://www.linkedin.com/in/united-sapiens/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32></a> &nbsp;
+    <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;
     <a href="https://www.youtube.com/channel/UC_P9YRTAJArvjE-68gPVfYg"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=32></a>
+    <a href="https://www.linkedin.com/company/united-sapiens"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32></a> &nbsp;
 </p>
 <br />
 
